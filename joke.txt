@@ -1,0 +1,1 @@
+I asked the agent for a one-line fix. It rewrote the whole module and left a comment saying 'simplified.'
